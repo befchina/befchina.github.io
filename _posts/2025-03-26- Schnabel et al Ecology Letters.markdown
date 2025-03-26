@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Tree diversity increases forest temperature buffering via enhancing canopy density and structural diversity"
 author: Florian Schnabel, Remy Beugnon, Bo Yang
