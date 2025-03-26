@@ -14,9 +14,11 @@ Global warming is increasing the frequency and intensity of climate extremes. Fo
 </span></p>
 
 
+
 ![Figure]({{ site.baseurl }}/assets/projects/Schnabel-2005-EL-2.jpg)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 2. Tree species richness effects on temperature buffering on the monthly (A, B) and the annual scale (C). 
 </span></p>
+
 
 
 ![Figure]({{ site.baseurl }}/assets/projects/Schnabel-2005-EL-3.jpg)
