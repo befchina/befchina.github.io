@@ -24,6 +24,6 @@ Global warming is increasing the frequency and intensity of climate extremes. Fo
 </span></p>
 
 ### Literature:
-Florian Schnabel#, Remy Beugnon#, Bo Yang#, Ronny Richter, Nico Eisenhauer, Yuanyuan Huang, Xiaojuan Liu, Christian Wirth, Simone Cesarz, Andreas Fichtner, Maria D Perles-Garcia, Georg J A Hahn, Werner Hardtle, Matthias Kunz, Nadia C Castro Izaguirre, Pascal A Niklaus, Goddert von Oheimb, Bernhard Schmid, Stefan Trogisch, Manfred Wendisch, Keping Ma<code>&ast;</code>, Helge Bruelheide<code>&ast;</code>. 2025. Tree diversity increases forest temperature buffering via enhancing canopy density and structural diversity. *Ecology Letters*, 28(3):e70096.[https://onlinelibrary.wiley.com/doi/10.1111/ele.70096](https://onlinelibrary.wiley.com/doi/10.1111/ele.70096).
+Florian Schnabel#, Remy Beugnon#, Bo Yang#, Ronny Richter, Nico Eisenhauer, Yuanyuan Huang, Xiaojuan Liu, Christian Wirth, Simone Cesarz, Andreas Fichtner, Maria D Perles-Garcia, Georg J A Hahn, Werner Hardtle, Matthias Kunz, Nadia C Castro Izaguirre, Pascal A Niklaus, Goddert von Oheimb, Bernhard Schmid, Stefan Trogisch, Manfred Wendisch, Keping Ma<code>&ast;</code>, Helge Bruelheide<code>&ast;</code>. 2025. Tree diversity increases forest temperature buffering via enhancing canopy density and structural diversity. *Ecology Letters*. 28(3):e70096.[https://onlinelibrary.wiley.com/doi/10.1111/ele.70096](https://onlinelibrary.wiley.com/doi/10.1111/ele.70096).
 
 Chinese report: [https://mp.weixin.qq.com/s/EHi4z5dOU_zDPY0EEHNj6g](https://mp.weixin.qq.com/s/EHi4z5dOU_zDPY0EEHNj6g).
