@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Understory shrub diversity: equally vital as overstory tree diversity to promote forest productivity"
 author: Chen Chen, Guoyong Yan
