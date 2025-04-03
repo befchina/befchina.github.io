@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Non- random tree species loss shifts soil fungal communities"
 author: Sirong Zhang
@@ -15,14 +15,17 @@ Biodiversity–ecosystem functioning relationships (BEF) have been extensively s
 </span></p>
 
 
+
 ![Figure]({{ site.baseurl }}/assets/projects/Zhang-JOE-2025-3.png)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 2. Responses of soil fungal richness, Shannon diversity and relative abundance to tree species loss under different scenarios. 
 </span></p>
 
 
+
 ![Figure]({{ site.baseurl }}/assets/projects/Zhang-JOE-2025-4.png)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 3. The distributions of soil fungal community composition with tree species loss under different extinction scenarios.
 </span></p>
+
 
 
 ![Figure]({{ site.baseurl }}/assets/projects/Zhang-JOE-2025-5.png)
