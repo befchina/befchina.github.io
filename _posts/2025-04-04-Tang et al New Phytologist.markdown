@@ -7,8 +7,11 @@ image: assets/projects/Tang-NP-2025-0.png
 tags: featured
 ---
 Afforestation projects using species mixtures are expected to better support ecosystem services than monoculture plantations. While grassland studies have shown natural selection favoring high-performance genotypes in species-rich communities, this has not been explored in forests. 
+
 We used seed-family identity (known maternity) to represent genetic identity and investigated how this affected the biomass accumulation (i.e. growth) of individual trees (n =13 435) along a species richness gradient (1–16 species) and over stand age (9 yr) in a forest biodiversity experiment. 
+
 We found that among the eight species tested, different seed families responded differently to species richness, some of them growing relatively better in low-diversity plots and others in high-diversity plots. Furthermore, within-species growth variation increased with species richness and stand age, while between-species variation decreased with stand age. 
+
 These results indicate that seed families within species and their reaction norms along the species richness gradient vary considerably and thus can explain a substantial proportion of the overall variation in tree growth. Our findings suggest that the growth and associated ecosystem services of species-rich mixtures in afforestation projects can be optimized by artificially selecting seed families with high mixture performance in biodiversity experiments.
 
 ![Figure]({{ site.baseurl }}/assets/projects/Tang-NP-2025-1.png)
