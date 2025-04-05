@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Identifying seed families with high mixture performance in a subtropical forest biodiversity experiment"
 author: Ting Tang
