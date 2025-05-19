@@ -40,4 +40,4 @@ tags: featured
 
 
 ### Literature:
-Sirong Zhang, G. F. Veen, Wim H. Van der Putten, Xiaojuan Liu, Helge Bruelheide, Keping Ma<code>&ast;</code>, Naili Zhang<code>&ast;</code>. 2025. Non‐random tree species loss shifts soil fungal communities. *Journal of Ecology*. Online. [https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70029](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70029).
+Sirong Zhang, G. F. Veen, Wim H. Van der Putten, Xiaojuan Liu, Helge Bruelheide, Keping Ma<code>&ast;</code>, Naili Zhang<code>&ast;</code>. 2025. Non‐random tree species loss shifts soil fungal communities. *Journal of Ecology*. 113(5):1239-1255. [https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70029](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70029).
