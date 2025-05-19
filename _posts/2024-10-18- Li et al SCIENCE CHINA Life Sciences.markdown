@@ -38,6 +38,6 @@ Plant diversity significantly impacts ecosystem processes and functions, yet its
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 6. Structure of plant-epiphytic and endophytic fungus networks. 
 </span></p>
 ### Literature:
-Jie Li<code>&ast;</code>, Xing-Chun Li, Hui-Yun Gan, Yue Zhang, Zi-Xuan Guo, Yu-Xuan Liu, Yong-Qing Lin, Liang-Dong Guo<code>&ast;</code>. 2024. Plant diversity increases diversity and network complexity rather than alters community assembly processes of leaf-associated fungi in a subtropical forest. *SCIENCE CHINA Life Sciences*. Online. [https://link.springer.com/article/10.1007/s11427-024-2630-6](https://link.springer.com/article/10.1007/s11427-024-2630-6)
+Jie Li<code>&ast;</code>, Xing-Chun Li, Hui-Yun Gan, Yue Zhang, Zi-Xuan Guo, Yu-Xuan Liu, Yong-Qing Lin, Liang-Dong Guo<code>&ast;</code>. 2025. Plant diversity increases diversity and network complexity rather than alters community assembly processes of leaf-associated fungi in a subtropical forest. *SCIENCE CHINA Life Sciences*. 68(3):846-858. [https://link.springer.com/article/10.1007/s11427-024-2630-6](https://link.springer.com/article/10.1007/s11427-024-2630-6)
 
 Chinese report: [https://mp.weixin.qq.com/s/QGpaXRPf9SnWXD6OY53CMA](https://mp.weixin.qq.com/s/QGpaXRPf9SnWXD6OY53CMA)
