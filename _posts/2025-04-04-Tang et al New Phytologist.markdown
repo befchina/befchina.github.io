@@ -35,4 +35,4 @@ These results indicate that seed families within species and their reaction norm
 
 
 ### Literature:
-Ting Tang, Bernhard Schmid, Meredith C Schuman, Franca J Bongers, Shan Li, Yu Liang, Sofia J van Moorsel, Goddert von Oheimb, Walter Durka, Helge Bruelheide, Keping Ma, Xiaojuan Liu<code>&ast;</code>. 2025. Identifying seed families with high mixture performance in a subtropical forest biodiversity experiment. *New Phytologist*. Online. [https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.70130](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.70130).
+Ting Tang, Bernhard Schmid, Meredith C Schuman, Franca J Bongers, Shan Li, Yu Liang, Sofia J van Moorsel, Goddert von Oheimb, Walter Durka, Helge Bruelheide, Keping Ma, Xiaojuan Liu<code>&ast;</code>. 2025. Identifying seed families with high mixture performance in a subtropical forest biodiversity experiment. *New Phytologist*. 246(6):2537-2550. [https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.70130](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.70130).
