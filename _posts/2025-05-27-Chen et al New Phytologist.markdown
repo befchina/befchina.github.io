@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Ecosystem consequences of functional diversity in forests and implications for restoration"
 author: Chen Chen
