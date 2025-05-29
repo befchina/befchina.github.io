@@ -30,4 +30,4 @@ Forests are recognized as the largest natural source of nitrous oxide (N2O) emis
 
 
 ### Literature:
-Hanling Zuo, Wensheng Xiao, Mingqiu Dong, Xinyun Gu, Xia Liang, Pete Smith, Manuel Delgado Baquerizo, Lijun Hou<code>&ast;</code>, Xiaoqi Zhou<code>&ast;</code>. 2025. Enhanced plant diversity reduces nitrous oxide emissions in forest soils worldwide. *National Science Review*. Online. [https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf186/8129722](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf186/8129722).
+Hanling Zuo, Wensheng Xiao, Mingqiu Dong, Xinyun Gu, Xia Liang, Pete Smith, Manuel Delgado Baquerizo, Lijun Hou<code>&ast;</code>, Xiaoqi Zhou<code>&ast;</code>. 2025. Enhanced plant diversity reduces nitrous oxide emissions in forest soils worldwide. *National Science Review*. nwaf186. [https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf186/8129722](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf186/8129722).
