@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Enhanced plant diversity reduces nitrous oxide emissions in forest soils worldwide"
 author: Hanling Zuo
