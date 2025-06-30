@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Soil carbon sequestration: Facilitated effect of extrafloral nectary trees in a diverse subtropical forest"
 author: Yumei Pan
