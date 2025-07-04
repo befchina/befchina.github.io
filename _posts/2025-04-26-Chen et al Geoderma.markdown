@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Tree species richness affects the trophic structure of soil oribatid mites via litter functional diversity and canopy cover: Evidence from stable isotope analysis (15N, 13C)"
 author: Yannan Chen
