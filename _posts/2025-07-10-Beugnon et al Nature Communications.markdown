@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Improving forest ecosystem functions by optimizing tree species spatial arrangement"
 author: Rémy Beugnon
