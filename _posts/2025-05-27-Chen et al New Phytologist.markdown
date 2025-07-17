@@ -33,4 +33,4 @@ Global forest restoration initiatives provide an important chance to recover bio
 </span></p>
 
 ### Literature:
-Chen Chen, Franca J Bongers, Bernhard Schmid, Keping Ma, and Xiaojuan Liu<code>&ast;</code>. 2025. Ecosystem consequences of functional diversity in forests and implications for restoration. *New Phytologist*. Online. [https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70247](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70247). 
+Chen Chen, Franca J Bongers, Bernhard Schmid, Keping Ma, and Xiaojuan Liu<code>&ast;</code>. 2025. Ecosystem consequences of functional diversity in forests and implications for restoration. *New Phytologist*. 247(3):1081-1097. [https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70247](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70247). 
