@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Within-individual leaf trait response to local light availability and biodiversity in a subtropical forest experiment"
 author: Tobias Proß
