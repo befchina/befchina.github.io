@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Cascading effects of tree diversity loss on herbivore-parasitoid interactions"
 author: Ming-Qiang Wang
