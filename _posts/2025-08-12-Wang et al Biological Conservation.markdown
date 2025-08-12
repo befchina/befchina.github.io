@@ -10,7 +10,7 @@ Global biodiversity loss has been shown to negatively impact ecosystem functioni
 
 
 ![Figure]({{ site.baseurl }}/assets/projects/Wang-BC-2025-1.jpg)
-<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 1. Fig. 1. Bivariate relationships between parasitoid abundance, parasitoid species richness, parasitism rates, herbivore abundance, herbivore richness, community weighted mean (CWM) value of functional traits and tree species richness. 
+<p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 1. Bivariate relationships between parasitoid abundance, parasitoid species richness, parasitism rates, herbivore abundance, herbivore richness, community weighted mean (CWM) value of functional traits and tree species richness. 
 </span></p>
 
 
