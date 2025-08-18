@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Trees suppress growth but sustain water consumption in response to flash drought in a subtropical forest"
 author:  Yongqiang Zhang
