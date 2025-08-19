@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Tree diversity, tree growth, and microclimate independently structure Lepidoptera herbivore community stability"
 author: Ming-Qiang Wang
