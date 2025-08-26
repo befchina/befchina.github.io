@@ -6,7 +6,6 @@ categories: [ Paper ]
 image: assets/projects/Li-NEE-2025-0.png
 tags: featured
 ﻿---
-
 A new study has revealed a positive relationship between tree growth and insect herbivory, as well as between tree species richness and herbivory. The research, conducted by an international team of scientists and led by Prof. Xiaojuan Liu from the Institute of Botany, Chinese Academy of Sciences (IBCAS), is based on data from 8,800 trees across 80 species in nine biodiversity experiments from the Tree Diversity Network (TreeDivNet) in various biomes. As the world's forests face increasing threats from climate change, deforestation, and insect outbreaks, understanding the complex relationships between trees, insects, and their environment is crucial for developing effective management strategies.
 
 "Our study provides critical insights into the complex dynamics of plant-herbivore interactions and offers valuable guidance for forest management and restoration strategies," says Prof. Xiaojuan Liu, senior author of the study.
