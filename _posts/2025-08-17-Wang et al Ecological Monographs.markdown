@@ -3,7 +3,7 @@ layout: post
 title:  "Tree diversity, tree growth, and microclimate independently structure Lepidoptera herbivore community stability"
 author: Ming-Qiang Wang
 categories: [ Paper ]
-image: assets/projects/Wang-EM-2025-0.png
+image: assets/projects/Wang-EM-2005-0.png
 tags: featured
 ---
 Forests worldwide are increasingly challenged by environmental change, which drives biodiversity loss and heightens the risk of biotic disturbances such as insect outbreaks. While research has often emphasized plants when assessing biodiversity–ecosystem function relationships, higher trophic levels like herbivores are equally important, both for ecosystem functioning and as drivers of disturbances. Understanding the mechanisms that govern herbivore community stability is therefore crucial for both ecological theory and forest management.
@@ -19,22 +19,22 @@ The study, published in Ecological Monographs and titled “Tree diversity, tree
 The research was supported by the National Key Research Development Program of China (2022YFB0802300), the Science & Technology Fundamental Resources Investigation Program (2023FY100203), the National Natural Science Foundation of China (32100343, 32330013), and the Key Laboratory of the Zoological Systematics and Evolution (2008DP173354). Ming-Qiang Wang was funded by the Alexander von Humboldt Foundation, while Andreas Schuldt’s team received support from the German Research Foundation (SCHU 2609/4-1).
 
 
-![Figure]({{ site.baseurl }}/assets/projects/Wang-EM-2025-1.png)
+![Figure]({{ site.baseurl }}/assets/projects/Wang-EM-2005-1.png)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 1. Relationships of the overall caterpillar abundance and species richness with macroclimate and tree species richness across seasons and years. 
 </span></p>
 
 
-![Figure]({{ site.baseurl }}/assets/projects/Wang-EM-2025-2.png)
+![Figure]({{ site.baseurl }}/assets/projects/Wang-EM-2005-2.png)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 2. Effects of tree diversity on caterpillars via bottom-up regulation. Direct and indirect effects of trees (in green), tree growth (in orange), and microclimate temperature (in purple) on caterpillars (in blue gray) for abundance based on path model results.
 </span></p>
 
 
-![Figure]({{ site.baseurl }}/assets/projects/Wang-EM-2025-3.png)
+![Figure]({{ site.baseurl }}/assets/projects/Wang-EM-2005-3.png)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 3. Overall and seasonal effects of tree diversity on caterpillars via bottom-up regulation. Bars show summed effects of tree species richness (TSR), functional diversity (FD), functional trait composition (FT), tree absolute growth rates (TGR), and microclimate temperature (TMP) on overall (a) caterpillar abundance, (b) richness.
 </span></p>
 
 
-![Figure]({{ site.baseurl }}/assets/projects/Wang-EM-2025-4.png)
+![Figure]({{ site.baseurl }}/assets/projects/Wang-EM-2005-4.png)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 4. Relationships of overall caterpillar spatiotemporal beta diversity with tree species richness and the spatiotemporal stability of caterpillar richness and mean pairwise phylogenetic distance (MPD) across years. Relationships between tree species richness and caterpillar temporal beta diversity for (a) species richness and (b) MPD, and spatial beta diversity for (c) species richness and (d) MPD. Relationships between caterpillar temporal beta diversity and temporal stability indices for (e) species richness and (f) MPD, and between caterpillar spatial beta diversity and spatial stability indices for (g) species richness and (h) MPD.
 </span></p>
 
