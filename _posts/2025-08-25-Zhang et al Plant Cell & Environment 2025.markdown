@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Positive Diversity Effect on Woody Biomass Production by Promoting Cell Number and Cell Wall Thickness"
 author:  Hong-Tu Zhang
