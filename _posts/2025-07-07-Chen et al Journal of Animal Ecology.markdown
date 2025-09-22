@@ -4,7 +4,7 @@ title:  "Bottom-up and top-down effects combine to drive predator-prey interacti
 author: Jingting Chen
 categories: [ Paper ]
 image: assets/projects/Chen-JAE-2025-0.png
-tags: featured
+tags: featured---
 
 1. The bottom- up effect of producers and the top- down effect of predators are well- known factors shaping community assembly and ecosystem functioning through trophic interactions. Communities differing in their functional composition may induce ecological effects with varying directions and intensities, but previous studies in highly diverse ecosystems have struggled with reliably quantifying these interactions at the community level.
 2. We used spider gut- content metabarcoding in a subtropical tree diversity experiment to examine the impact of multiple diversity components of both trees and spiders on prey diversity and the network structure of predator–prey interactions.
