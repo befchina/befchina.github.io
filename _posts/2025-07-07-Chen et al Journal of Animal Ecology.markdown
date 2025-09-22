@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Bottom-up and top-down effects combine to drive predator-prey interactions in a forest biodiversity experiment"
 author: Jingting Chen
