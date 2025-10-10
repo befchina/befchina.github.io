@@ -6,6 +6,7 @@ categories: [ Paper ]
 image: assets/projects/Deng-PNAS-2025-0.png
 tags: featured
 ---
+
 Forests with a large diversity of tree species produce more aboveground biomass because different types of trees can more effectively share the canopy space. And these positive effects even strengthen over time, as a study recently published in PNAS shows.
 
 ![Figure]({{ site.baseurl }}/assets/projects/Deng-PNAS-2025-1.png)
@@ -22,6 +23,6 @@ Bernhard Schmid from the Department of Geography, UZH points out: "These finding
 Planting a variety of tree species and thus enabling a more complementary use of canopy space in forests, will lead to more biomass production and more carbon storage – an important contribution to climate change mitigation in long-term afforestation projects.
 
 ### Literature:
-Xianglu Deng, Bernhard Schmid, Helge Bruelheide, Chen Chen, Yi Li, Shan Li, Felix Morsdorf, Tama Ray, Meredith C Schuman, Ting Tang, Goddert von Oheimb, Keping Ma, Xiaojuan Liu<code>&ast;</code>. 2025. Forest biodiversity increases productivity via complementarity from greater canopy structural complexity. Proceedings of the National Academy of Sciences of the United States of America. 122(40):e2506750122. [https://www.pnas.org/doi/10.1073/pnas.2506750122?sessionid=](https://www.pnas.org/doi/10.1073/pnas.2506750122?sessionid=).
+Xianglu Deng, Bernhard Schmid, Helge Bruelheide, Chen Chen, Yi Li, Shan Li, Felix Morsdorf, Tama Ray, Meredith C Schuman, Ting Tang, Goddert von Oheimb, Keping Ma, Xiaojuan Liu<code>&ast;</code>. 2025. Forest biodiversity increases productivity via complementarity from greater canopy structural complexity. *Proceedings of the National Academy of Sciences of the United States of America*. 122(40):e2506750122. [https://www.pnas.org/doi/10.1073/pnas.2506750122?sessionid=](https://www.pnas.org/doi/10.1073/pnas.2506750122?sessionid=).
 
 Chinese report: [https://mp.weixin.qq.com/s/yOVRMYXXNW86vKV9h95f4w](https://mp.weixin.qq.com/s/yOVRMYXXNW86vKV9h95f4w).
