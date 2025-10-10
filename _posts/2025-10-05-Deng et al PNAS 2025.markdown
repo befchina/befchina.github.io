@@ -1,0 +1,27 @@
+﻿---
+layout: post
+title:  "Forest biodiversity increases productivity via complementarity from greater canopy structural complexity"
+author:  Xianglu Deng
+categories: [ Paper ]
+image: assets/projects/Deng-PNAS-2025-0.png
+tags: featured
+---
+Forests with a large diversity of tree species produce more aboveground biomass because different types of trees can more effectively share the canopy space. And these positive effects even strengthen over time, as a study recently published in PNAS shows.
+
+![Figure]({{ site.baseurl }}/assets/projects/Deng-PNAS-2025-1.png)
+</span></p>
+
+Led by researchers from the Institute of Botany of the Chinese Academy of Sciences (IBCAS) and the University of Zurich, the team analyzed data of 38,088 trees growing in 482 plots containing 1, 2, 4, 8, or 16 tree species. They used LiDAR (Light Detection and Ranging) measurements obtained from drone overflights and ground-based growth measurements. These were taken within a large forest biodiversity experiment in southeast China (BEF-China) 11 to 15 years after planting.
+
+### Absorbing sunlight more efficiently without crowding each other out
+
+The more complex structure of the tree canopy largely explained the positive relationship between tree diversity and productivity. Additionally, the overyielding observed in mixed plantings was driven by the positive relationships between complementarity effects and canopy structural complexity. These positive effects even become stronger over time. In mixed stands different species can better fill the aboveground canopy space with their non-overlapping tree crowns, while in less diverse mixtures or even monocultures the canopy space is not occupied so evenly and thus light used less efficiently.
+
+Bernhard Schmid from the Department of Geography, UZH points out: "These findings are the first to demonstrate such complementary use of aboveground space in a tree biodiversity experiment." And Xiaojuan Liu from IBCAS adds: "Forest managers should consider making the forest canopy more complex by selective harvesting and replanting diverse species. With this, the high productivity of a forest can be sustained over longer time spans."
+
+Planting a variety of tree species and thus enabling a more complementary use of canopy space in forests, will lead to more biomass production and more carbon storage – an important contribution to climate change mitigation in long-term afforestation projects.
+
+### Literature:
+Xianglu Deng, Bernhard Schmid, Helge Bruelheide, Chen Chen, Yi Li, Shan Li, Felix Morsdorf, Tama Ray, Meredith C Schuman, Ting Tang, Goddert von Oheimb, Keping Ma, Xiaojuan Liu<code>&ast;</code>. 2025. Forest biodiversity increases productivity via complementarity from greater canopy structural complexity. Proceedings of the National Academy of Sciences of the United States of America. 122(40):e2506750122. [https://www.pnas.org/doi/10.1073/pnas.2506750122?sessionid=](https://www.pnas.org/doi/10.1073/pnas.2506750122?sessionid=).
+
+Chinese report: [https://mp.weixin.qq.com/s/yOVRMYXXNW86vKV9h95f4w](https://mp.weixin.qq.com/s/yOVRMYXXNW86vKV9h95f4w).
