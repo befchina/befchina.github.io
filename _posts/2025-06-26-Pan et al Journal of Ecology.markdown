@@ -40,4 +40,4 @@ tags: featured
 </span></p>
 
 ### Literature:
-Yumei Pan, Xiaojuan Liu, Michael Staab, and Naili Zhang<code>&ast;</code>. 2025. Soil carbon sequestration: Facilitated effect of extrafloral nectary trees in a diverse subtropical forest. *Journal of Ecology*. Online. [https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70088](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70088).
+Yumei Pan, Xiaojuan Liu, Michael Staab, and Naili Zhang<code>&ast;</code>. 2025. Soil carbon sequestration: Facilitated effect of extrafloral nectary trees in a diverse subtropical forest. *Journal of Ecology*. 113(8):2199-2219. [https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70088](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70088).
