@@ -9,7 +9,6 @@ tags: featured
 Forests with a large diversity of tree species produce more aboveground biomass because different types of trees can more effectively share the canopy space. And these positive effects even strengthen over time, as a study recently published in PNAS shows.
 
 ![Figure]({{ site.baseurl }}/assets/projects/Deng-PNAS-2025-1.png)
-</span></p>
 
 Led by researchers from the Institute of Botany of the Chinese Academy of Sciences (IBCAS) and the University of Zurich, the team analyzed data of 38,088 trees growing in 482 plots containing 1, 2, 4, 8, or 16 tree species. They used LiDAR (Light Detection and Ranging) measurements obtained from drone overflights and ground-based growth measurements. These were taken within a large forest biodiversity experiment in southeast China (BEF-China) 11 to 15 years after planting.
 
