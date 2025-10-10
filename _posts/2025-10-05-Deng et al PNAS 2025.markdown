@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Forest biodiversity increases productivity via complementarity from greater canopy structural complexity"
 author:  Xianglu Deng
