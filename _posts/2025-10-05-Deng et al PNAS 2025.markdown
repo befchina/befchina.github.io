@@ -6,7 +6,6 @@ categories: [ Paper ]
 image: assets/projects/Deng-PNAS-2025-0.png
 tags: featured
 ---
-
 Forests with a large diversity of tree species produce more aboveground biomass because different types of trees can more effectively share the canopy space. And these positive effects even strengthen over time, as a study recently published in PNAS shows.
 
 ![Figure]({{ site.baseurl }}/assets/projects/Deng-PNAS-2025-1.png)
