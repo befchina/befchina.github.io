@@ -24,4 +24,4 @@ tags: featured
 
 
 ### Literature:
-Jing-Ting Chen, Ming-Qiang Wang, Arong Luo, Feng Zhang, Douglas Chesters, Shanlin Liu, Yi Li, Goddert von Oheimb, Matthias Kunz, Qing-Song Zhou, Helge Bruelheide, Xiao-Juan Liu, Ke-Ping Ma, Andreas Schuldt<code>&ast;</code>, Chao-Dong Zhu<code>&ast;</code>. 2025. Bottom-up and top-down effects combine to drive predator-prey interactions in a forest biodiversity experiment. *Journal of Animal Ecology*. Online. [https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.70103](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.70103).
+Jing-Ting Chen, Ming-Qiang Wang, Arong Luo, Feng Zhang, Douglas Chesters, Shanlin Liu, Yi Li, Goddert von Oheimb, Matthias Kunz, Qing-Song Zhou, Helge Bruelheide, Xiao-Juan Liu, Ke-Ping Ma, Andreas Schuldt<code>&ast;</code>, Chao-Dong Zhu<code>&ast;</code>. 2025. Bottom-up and top-down effects combine to drive predator-prey interactions in a forest biodiversity experiment. *Journal of Animal Ecology*. 94(10):2035-2046. [https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.70103](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.70103).
