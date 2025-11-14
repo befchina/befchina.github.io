@@ -30,4 +30,4 @@ While biodiversity has been widely shown to promote tree growth in forests, the 
 
 
 ### Literature:
-Hong-Tu Zhang, Tongyan Liu<code>&ast;</code>, Shan Li, Bernhard Schmid, Helge Bruelheide, Keping Ma, Zhiyao Tang<code>&ast;</code>. 2025. Positive Diversity Effect on Woody Biomass Production by Promoting Cell Number and Cell Wall Thickness. Plant Cell & Environment. Online. [https://onlinelibrary.wiley.com/doi/10.1111/pce.70188](https://onlinelibrary.wiley.com/doi/10.1111/pce.70188).
+Hong-Tu Zhang, Tongyan Liu<code>&ast;</code>, Shan Li, Bernhard Schmid, Helge Bruelheide, Keping Ma, Zhiyao Tang<code>&ast;</code>. 2025. Positive Diversity Effect on Woody Biomass Production by Promoting Cell Number and Cell Wall Thickness. Plant Cell & Environment. 48(12):9002–9010. [https://onlinelibrary.wiley.com/doi/10.1111/pce.70188](https://onlinelibrary.wiley.com/doi/10.1111/pce.70188).
