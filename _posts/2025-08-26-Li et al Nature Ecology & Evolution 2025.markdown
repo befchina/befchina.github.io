@@ -25,6 +25,6 @@ In summary, this study not only confirms a global pattern of positive relationsh
 </span></p>
 
 ### Literature:
-Yi Li, Andreas Schuldt, Jürgen Bauhus, Michaël Belluau, Sylvie Berthelot, Karin T. Burghardt, Helge Bruelheide, Bastien Castagneyrol, Chengjin Chu, Nico Eisenhauer, Olga Ferlian, Jochen Fründ, Tobias Gebauer, Dominique Gravel, Hervé Jactel, Shan Li, Yu Liang, John D. Parker, William C. Parker, Michael Scherer-Lorenzen, Michael Staab, Kris Verheyen, Bernhard Schmid, Keping Ma, and Xiaojuan Liu<code>&ast;</code>. 2025. The tree growth-herbivory relationship depends on functional traits across forest biodiversity experiments. Nature Ecology & Evolution. [https://www.nature.com/articles/s41559-025-02835-z](https://www.nature.com/articles/s41559-025-02835-z).
+Yi Li, Andreas Schuldt, Jürgen Bauhus, Michaël Belluau, Sylvie Berthelot, Karin T. Burghardt, Helge Bruelheide, Bastien Castagneyrol, Chengjin Chu, Nico Eisenhauer, Olga Ferlian, Jochen Fründ, Tobias Gebauer, Dominique Gravel, Hervé Jactel, Shan Li, Yu Liang, John D. Parker, William C. Parker, Michael Scherer-Lorenzen, Michael Staab, Kris Verheyen, Bernhard Schmid, Keping Ma, and Xiaojuan Liu<code>&ast;</code>. 2025. The tree growth-herbivory relationship depends on functional traits across forest biodiversity experiments. Nature Ecology & Evolution. 9:2014–2024. [https://www.nature.com/articles/s41559-025-02835-z](https://www.nature.com/articles/s41559-025-02835-z).
 
 Chinese report: [https://mp.weixin.qq.com/s/VhLKSeCPS8U27N2XFHNqLw](https://mp.weixin.qq.com/s/VhLKSeCPS8U27N2XFHNqLw).
