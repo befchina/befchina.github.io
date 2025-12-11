@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Intraspecific and intraindividual trait variability decrease with tree richness in a subtropical tree biodiversity experiment"
 author:  Pablo Castro Sánchez-Bermejo
