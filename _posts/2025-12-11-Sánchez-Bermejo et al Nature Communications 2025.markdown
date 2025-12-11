@@ -6,7 +6,6 @@ categories: [ Paper ]
 image: assets/projects/Pablo-NC-2025-0.png
 tags: featured
 ﻿---
- 
 Phenotypic variability within tree species responds to local tree species richness. However, we lack evidence on how different sources of trait variation shape tree-tree interactions. Along a diversity gradient from one to eight tree species, here we collect 4568 leaves from 381 trees to study changes in intraspecific and intraindividual leaf trait variability, and assess their contribution to community functional diversity. Intraspecific trait variability in functional traits decreases with tree species richness, while similar responses for intraindividual variability are revealed by spectral traits. Functional overlap between conspecific trees increases through intraindividual variation, but is reduced through intraspecific variability, meaning that intraspecific variability may reduce intraspecific competitive interactions while intraindividual variability could arise due to varying light within the canopy. Last, intraspecific and intraindividual variability explain high community functional richness and divergence, respectively, especially in mixtures. Our findings emphasize that fine-scale variability influences tree-tree interactions and drive local functional diversity.
 
 
