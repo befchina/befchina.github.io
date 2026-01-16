@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Asynchrony and functional diversity couple herbivore community dynamics to host plant diversity"
 author:  Ming-Qiang Wang
