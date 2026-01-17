@@ -20,7 +20,7 @@ Together, these findings demonstrate a strong bottom-up coupling between host tr
 
 This research provides one of the most comprehensive empirical tests to date of how diversity–stability relationships are linked across trophic levels in forest ecosystems, highlighting the importance of integrating temporal dynamics, functional diversity, and trophic interactions when predicting ecosystem responses to global change.
 
-Funding
+Funding<br>
 The study was supported by the National Key Research and Development Program of China, the National Natural Science Foundation of China, the Strategic Priority Research Program of the Chinese Academy of Sciences, international collaboration programs, and the German Research Foundation DFG within the MultiTroph research unit. MQW was supported by the Alexander von Humboldt Foundation.
 
 
