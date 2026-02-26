@@ -1,7 +1,7 @@
----﻿
+---
 layout: post
 title:  "Tree species richness drives multiple facets of bee diversity via understorey microenvironment"
-author: Ting-Ting Xie
+author:  Ting-Ting Xie
 categories: [ Paper ]
 image: assets/projects/XTT-JAE-0.jpg
 tags: featured
