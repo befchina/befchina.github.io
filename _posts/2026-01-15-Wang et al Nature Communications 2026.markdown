@@ -42,4 +42,4 @@ The study was supported by the National Key Research and Development Program of 
 
 
 ### Literature:
-Ming-Qiang Wang, Georg Albert, Carlo L. Seifert, Douglas Chesters, Helge Bruelheide, Yi Li, Jing-Ting Chen, Andréa Davrinche, Sylvia Haider, Shan Li, Goddert von Oheimb, Tobias Proß, Keping Ma, Xiaojuan Liu, Arong Luo, Andreas Schuldt<code>&ast;</code>, Chao-Dong Zhu<code>&ast;</code>. 2026. Asynchrony and functional diversity couple herbivore community dynamics to host plant diversity. *Nature Communications*. Online. [https://www.nature.com/articles/s41467-025-67990-0](https://www.nature.com/articles/s41467-025-67990-0).
+Ming-Qiang Wang, Georg Albert, Carlo L. Seifert, Douglas Chesters, Helge Bruelheide, Yi Li, Jing-Ting Chen, Andréa Davrinche, Sylvia Haider, Shan Li, Goddert von Oheimb, Tobias Proß, Keping Ma, Xiaojuan Liu, Arong Luo, Andreas Schuldt<code>&ast;</code>, Chao-Dong Zhu<code>&ast;</code>. 2026. Asynchrony and functional diversity couple herbivore community dynamics to host plant diversity. *Nature Communications*. 17:762. [https://www.nature.com/articles/s41467-025-67990-0](https://www.nature.com/articles/s41467-025-67990-0).
