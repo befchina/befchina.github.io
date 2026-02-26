@@ -28,7 +28,7 @@ tags: featured
 </span></p>
 
 
-![Figure]({{ site.baseurl }}/assets/projects/XTT-JAE-3.jpg)
+![Figure]({{ site.baseurl }}/assets/projects/XTT-JAE-4.jpg)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 4. Results of the RLQ and fourth-corner analyses of the associations between bee traits, and tree species richness and microenvironment in the understorey. 
 </span></p>
 ### Literature:
