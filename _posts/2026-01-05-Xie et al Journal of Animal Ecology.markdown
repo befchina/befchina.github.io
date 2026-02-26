@@ -6,7 +6,6 @@ categories: [ Paper ]
 image: assets/projects/XTT-JAE-0.jpg
 tags: featured
 ---
-
 1. Wild bees are widely distributed and effective pollinators, yet they face significant threats such as degradation of forests. Forest restoration has been advocated as a strategy to mitigate these threats and stabilize biodiversity. However, there is a lack of understanding of the ecological consequences of forest restoration on bee diversity, particularly regarding interactions with tree diversity and microenvironment.
 2. Using data from the world's largest tree diversity experiment (BEF-China), this study examines how tree species richness, canopy cover, understorey vegetation, and microclimatic conditions affect bee diversity in the context of forest restoration.
 3. Our analysis of bee diversity data (8341 individuals from 79 species) revealed that these biotic factors had distinct effects on three dimensions of bee diversity. Specifically, canopy cover had a negative effect on bee taxonomic diversity but a positive effect on phylogenetic and functional diversity. However, these patterns were reversed when the cover of understorey vegetation was accounted for. Moreover, tree species richness exerted an indirect influence on bee diversity through understorey microenvironment.
