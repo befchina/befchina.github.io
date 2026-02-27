@@ -22,7 +22,7 @@ Forest biodiversity experiments test how species diversity affects forest ecosys
 
 
 
-![Figure]({{ site.baseurl }}/assets/projects/LIU-NRB-20263.png)
+![Figure]({{ site.baseurl }}/assets/projects/LIU-NRB-2026-3.png)
 <p style='text-align: justify;' ><span style="font-style: italic; font-size:70%">Figure 3. Trophic mediation of tree diversity effects via interactions with and among higher trophic levels. 
 </span></p>
 
