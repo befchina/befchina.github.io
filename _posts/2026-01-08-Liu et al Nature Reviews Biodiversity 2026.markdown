@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Ecological insights from three decades of forest biodiversity experiments"
 author:  Xiaojuan Liu
