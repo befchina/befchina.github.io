@@ -5,6 +5,13 @@
   email: kpma@ibcas.ac.cn
   web: http://lvec.ibcas.ac.cn/rcdw/yjy/202002/t20200204_541685.html
 
+- name: Prof. Dr. Bernhard Schmid
+  position: SC member
+  institute: University of Zurich, Switzerland
+  avatar: /assets/avatar/Bernhard.jpg
+  email: bernhard.schmid@ieu.uzh.ch
+  web: https://www.geo.uzh.ch/geolean/en/units/rsl/staff/?content=bernhardschmid
+  
 - name: Prof. Dr. Helge Bruelheide
   position: SC member
   institute: Institute of Biology / Geobotany, MLU & iDiv, Germany
@@ -12,31 +19,30 @@
   email: helge.bruelheide@botanik.uni-halle.de
   web: https://www.botanik.uni-halle.de/geobotanik/helge_bruelheide/
 
-- name: Prof. Dr. Bernhard Schmid
-  position: SC member
-  institute: University of Zurich, Switzerland
-  avatar: /assets/avatar/Bernhard.jpg
-  email: bernhard.schmid@ieu.uzh.ch
-  web: https://www.geo.uzh.ch/geolean/en/units/rsl/staff/?content=bernhardschmid
-
-- name: Prof. Dr. Yanfen Wang
-  position: SC member
-  institute: University of Chinese Academy of Sciences, China
-  avatar: /assets/avatar/Wang.jpg
-  email: yfwang@ucas.ac.cn
-  web: http://people.ucas.ac.cn/~0002374?language=en
-
-
-- name: Prof. Dr. Ding Wu
-  position: SC member
-  institute: Jingdezhen University, China
-  avatar: /assets/avatar/Wu.jpg
-  email: parnassia@126.com
-  web:
-
 - name: Prof. Dr. Xiaojuan Liu
-  position: Secretary of the Steering Committee
+  position: SC member
   institute: Institute of Botany, Chinese Academy of Sciences, China
   avatar: /assets/avatar/Liu.jpg
   email: liuxiaojuan06@ibcas.ac.cn
   web: https://people.ucas.ac.cn/~Xiaojuan_Liu?language=en
+
+- name: Prof. Dr. Andreas Schuldt
+  position: SC member
+  institute: Georg-August-Universität Göttingen, Germany
+  avatar: /assets/avatar/Andreas Schuldt.jpg
+  email: andreas.schuldt@forst.uni-goettingen.de
+  web: https://www.uni-goettingen.de/en/595615.html
+
+- name: Prof. Dr. Bo Yang
+  position: SC member
+  institute: Jingdezhen University, China
+  avatar: /assets/avatar/Bo Yang.jpg
+  email: yangbo@jdzu.edu.cn
+  web: https://shxy.jdzu.edu.cn/info/1181/21841.htm
+
+- name: Prof. Dr. Kai Xue
+  position: SC member
+  institute: University of Chinese Academy of Sciences, China
+  avatar: /assets/avatar/Kai Xue.png
+  email: xuekai@ucas.ac.cn
+  web: https://people.ucas.ac.cn/~xuekai?language=en
