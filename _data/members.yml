@@ -1,5 +1,5 @@
 - name: Dr. Shan Li
-  position: Leader, local lab manager
+  position: Leader
   # and experimental contact of BEF-China platform
   institute: Institute of Botany, Chinese Academy of Sciences, China
   avatar: /assets/avatar/Li.jpg
@@ -9,13 +9,13 @@
 - name: Prof. Dr. Yi Li
   position: member
   institute: Institute of Botany, Chinese Academy of Sciences, China
-  avatar: /assets/avatar/Yi Li.jpg
+  avatar: /assets/avatar/YiLi.jpg
   email: liyi2021@ibcas.ac.cn
   web: https://lvec.ibcas.ac.cn/rcdw/yjz/swdyxystaqyjz/yjs_51899/202506/t20250624_587658.html
 
 - name: Dr. Ranran Cheng
   position: member
   institute: Jingdezhen University, China
-  avatar: /assets/avatar/Ranran Cheng.jpg
+  avatar: /assets/avatar/RanranCheng.jpg
   email: chengranran1221@163.com
   web: 
