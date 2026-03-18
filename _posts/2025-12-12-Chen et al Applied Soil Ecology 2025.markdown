@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Tree mycorrhizal association types shape oribatid mite communities in a subtropical forest"
 author:  Yannan Chen
