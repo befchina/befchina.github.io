@@ -10,9 +10,9 @@ permalink: "/otherprojects.html"
 
 #### - TreeDì</a>
 #### - MultiTroph</a>
-#### - [Productivity]
-#### - [Nutrient cycling]
-#### - [Multitrophic interaction]
+#### - Productivity</a>
+#### - Nutrient cycling</a>
+#### - Multitrophic interaction</a>
 
 * * *
 #### TreeDì
