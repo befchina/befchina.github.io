@@ -8,11 +8,11 @@ permalink: "/otherprojects.html"
 ---
 <p>If you wish to apply for a new project in BEF-China, please download <a href="{{site.baseurl}}/assets/file/Application template for working in BEF-China platform.docx">the application form</a>.</p>
 
-#### - TreeDì</a>
-#### - MultiTroph</a>
-#### - Productivity</a>
-#### - Nutrient cycling</a>
-#### - Multitrophic interaction</a>
+#### - TreeDì
+#### - MultiTroph
+#### - Productivity
+#### - Nutrient cycling
+#### - Multitrophic interaction
 
 * * *
 #### TreeDì
