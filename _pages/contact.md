@@ -6,7 +6,7 @@ permalink: "/contact.html"
   <img class="img4" src= "{{ site.baseurl }}/assets/img/siteA.jpg">
 </div>
 <form action="https://formspree.io/{{site.email}}" method="POST">    
-<p class="mb-4">If you have any ideas for cooperation, any questions, or any field work interests, please send your message to {{site.name}}. We will reply as soon as possible!</p>
+<p class="mb-4">If you have any ideas for cooperation, any questions, or any field work interests, please send your message to {{site.name}}. We will reply as soon as possible! Contact: Dr. Shan Li, lishan8787@ibcas.ac.cn</p>
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Name*" required>
