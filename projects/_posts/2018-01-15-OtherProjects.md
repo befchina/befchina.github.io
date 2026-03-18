@@ -6,7 +6,7 @@ image: /assets/img/BEF-title2.jpg
 tags: [projects]
 permalink: "/otherprojects.html"
 ---
-<p>If you wish to apply for a new project in BEF-China, please download <a href="{{site.baseurl}}/assets/file/Application template for working in BEF-China platform.doc">the application form</a>.</p>
+<p>If you wish to apply for a new project in BEF-China, please download <a href="{{site.baseurl}}/assets/file/Application template for working in BEF-China platform.docx">the application form</a>.</p>
 
 #### - TreeDì</a>
 #### - MultiTroph</a>
