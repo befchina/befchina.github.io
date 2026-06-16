@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Effects of subtropical forest tree species richness on soil mite biodiversity and soil quality"
 author: Yannan Chen
