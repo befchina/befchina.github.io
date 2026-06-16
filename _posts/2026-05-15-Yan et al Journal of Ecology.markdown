@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Neighbourhood Diversity Effects on Tree Growth Shift Over Time in a Long- Term Forest Biodiversity Experiment"
-author: Zhuo Yang
+title:  "Tree diversity reduces the temperature sensitivity of soil carbon release"
+author: Guoyong Yan
 categories: [ Paper ]
 image: assets/projects/YGY-JOE-0.png
 tags: featured
