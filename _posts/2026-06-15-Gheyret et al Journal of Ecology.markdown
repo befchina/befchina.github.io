@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Tree growth phenology shifts in response to trait-based neighbourhood effects in a large subtropical forest biodiversity experiment"
 author: Gheyur Gheyret
