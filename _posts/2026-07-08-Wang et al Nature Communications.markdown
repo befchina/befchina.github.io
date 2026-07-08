@@ -38,4 +38,4 @@ of organization from structural equation model.
 
 
 ### Literature:
-Ming-Qiang Wang, Shaopeng Wang, Xiaojuan Liu, Lei Zhao, Douglas Chesters, Helge Bruelheide, Yi Li, Jing-Ting Chen, Shan Li, Qing-Song Zhou, Keping Ma, Arong Luo, Andreas Schuldt<code>&ast;</code>, Chao-Dong Zhu<code>&ast;</code> & Georg Albert. 2026. Scaling biodiversity–stability relationships from populations to meta-communities across trophic levels. Nature Communications. Online. [https://www.nature.com/articles/s41467-026-75366-1](https://www.nature.com/articles/s41467-026-75366-1).
+Ming-Qiang Wang, Shaopeng Wang, Xiaojuan Liu, Lei Zhao, Douglas Chesters, Helge Bruelheide, Yi Li, Jing-Ting Chen, Shan Li, Qing-Song Zhou, Keping Ma, Arong Luo, Andreas Schuldt<code>&ast;</code>, Chao-Dong Zhu<code>&ast;</code> & Georg Albert. 2026. Scaling biodiversity–stability relationships from populations to meta-communities across trophic levels. *Nature Communications*. Online. [https://www.nature.com/articles/s41467-026-75366-1](https://www.nature.com/articles/s41467-026-75366-1).
