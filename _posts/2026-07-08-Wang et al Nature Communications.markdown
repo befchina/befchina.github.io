@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Scaling biodiversity-stability relationships from populations to meta-communities across trophic levels"
 author: Ming-Qiang Wang
