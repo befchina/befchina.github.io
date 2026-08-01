@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Mycorrhizal type mediates coupled plant-soil and plant-phyllosphere feedbacks: divergent mechanisms driving subtropical tree growth"
 author: Yanhong Wang
