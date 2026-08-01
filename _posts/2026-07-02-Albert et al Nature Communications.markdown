@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Multitrophic interaction networks mediate biodiversity effects on ecosystem multifunctionality"
 author: Georg Albert
