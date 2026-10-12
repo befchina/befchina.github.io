@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Shrubs benefit from being functionally more conservative and distinct from neighbour trees"
 author: Sai Peng
