@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Ammonium Retention by Amberlite IRC-748 Resin: Useful for Concentration Assessments"
 author: Haikuo Zhang 
