@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Tree-tree interactions revisited – A refined approach to quantify spatial complementarity in tree crowns"
 author: Alexander Täuber
