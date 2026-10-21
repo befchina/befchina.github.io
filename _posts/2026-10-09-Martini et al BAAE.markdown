@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Moisture limits the diversity of nesting bees, wasps, and parasitoids in lying and standing deadwood"
 author: Massimo Martini
